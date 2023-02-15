@@ -20,6 +20,6 @@ public class Main {
                 {7, 8, 9}
         };
         boolean[][] visited = new boolean[matrix.length][matrix[0].length];
-        dfs(matrix, visited, 0, 0);
+        dfs(matrix, visited, 0, 0); // 1 4 7 8 5 2 3 6 9 
     }
 }
