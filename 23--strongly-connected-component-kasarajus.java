@@ -1,3 +1,4 @@
-public class 23--strongly-connected-component-kasarajus {
-    
-}
+/*
+https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1
+*/
+

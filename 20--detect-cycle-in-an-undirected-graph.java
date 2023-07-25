@@ -1,5 +1,8 @@
 /*
-URL: https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1
+https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1
+*/
+
+/*
 Detect cycle in an undirected graph
 Given an undirected graph with V vertices and E edges, check whether it contains any cycle or not. Graph is in the form of adjacency list where adj[i] contains all the nodes ith node is having edge with.
 
